@@ -1,2 +1,2 @@
-# wpu-git-test
+# grand-git-test
 Repo untuk mencoba git remote
